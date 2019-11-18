@@ -2,7 +2,8 @@
 
 Using Flask!
 
-.
+
+```
 ├── app
 │   ├── errors.py
 │   ├── forms.py
@@ -26,3 +27,4 @@ Using Flask!
 ├── microblog.py
 ├── README.md
 └── tests.py
+```
