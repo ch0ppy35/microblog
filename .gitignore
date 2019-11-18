@@ -3,4 +3,3 @@ venv.bak/
 venv/
 build/
 __pycache__/
-migrations/
